@@ -1,5 +1,17 @@
 import { parse, type HTMLElement } from "node-html-parser";
-import type { Member, Channel, Entry } from "./types";
+import type { Entry } from "./types";
+import {
+  findIdolByName,
+  allIdols,
+  meh,
+  mieru,
+  parin,
+  taimu,
+  type Idol,
+  bu,
+  findChannelByName,
+  type Channel,
+} from "./idols";
 
 export const parseSchedule = (html: string): Entry[] => {
   const root = parse(html);
@@ -69,7 +81,7 @@ const parseEntries = (root: HTMLElement, { year, month }: YM): Entry[] => {
 type YMD = { year: number; month: number; day: number };
 const parseEntry = (post: HTMLElement, { year, month, day }: YMD): Entry => {
   const channels = detectChannels(post);
-  const members = detectMembers(post);
+  const idols = detectIdols(post);
   const text = post.querySelector("p")?.textContent;
   if (!text) throw new Error("p not found");
   // 12:00〜 みえる個人配信
@@ -88,45 +100,48 @@ const parseEntry = (post: HTMLElement, { year, month, day }: YMD): Entry => {
         minute
       )
     );
-    return { startAt, members, channels, title, scheduleType: "date-time" };
+    return { startAt, idols, channels, title, scheduleType: "date-time" };
   } else {
     const title = text;
     const startAt = new Date(year, month - 1, day);
-    return { startAt, members, channels, title, scheduleType: "date" };
+    return { startAt, idols, channels, title, scheduleType: "date" };
   }
 };
 
 const detectChannels = (el: HTMLElement): Channel[] => {
-  // catにyoutubeがなければ他
+  // catにyoutubeがなければ配信ではない
   const cat = el.querySelector(".cat");
-  if (cat && !cat.classList.contains("youtube")) return ["他"];
+  if (cat && !cat.classList.contains("youtube")) return [];
 
-  const text = el.textContent;
-  if (!text) return ["他"];
-  // Member のうち最初に現れるものを返す
-  const m = /みえる|メエ|パリン|たいむ/.exec(text);
-  if (m) return [m[0]] as Channel[];
-  // 全員
-  if (text.includes("全員")) return ["みえる", "メエ", "パリン", "たいむ"];
-  // 部
-  if (text.includes("配信部") || text.includes("デミカツ通信")) return ["部"];
-  return ["他"];
-};
-
-const detectMembers = (el: HTMLElement): Member[] => {
-  const all = ["みえる", "メエ", "パリン", "たいむ"] as const;
   const text = el.textContent;
   if (!text) return [];
-  if (text.includes("全員")) return [...all];
+  // Channel のうち最初に現れるものを返す
+  // TODO: 同時配信だったら全員返したい (21:00〜 みえる・メエ同時配信, 18:00〜 パリンたいむ同時配信)
+  const m = /みえる|メエ|パリン|たいむ/.exec(text);
+  if (m) {
+    const c = findChannelByName(m[0]);
+    if (c) return [c];
+  }
+  // 全員
+  if (text.includes("全員")) return allIdols;
+  // 部
+  if (text.includes("配信部") || text.includes("デミカツ通信")) return [bu];
+  return [];
+};
 
-  const members: Member[] = [];
-  if (text.includes("みえる")) members.push("みえる");
-  if (text.includes("メエ")) members.push("メエ");
-  if (text.includes("パリン")) members.push("パリン");
-  if (text.includes("たいむ")) members.push("たいむ");
+const detectIdols = (el: HTMLElement): Idol[] => {
+  const text = el.textContent;
+  if (!text) return [];
+  if (text.includes("全員")) return allIdols;
+
+  const idols: Idol[] = [];
+  if (text.includes("みえる")) idols.push(mieru);
+  if (text.includes("メエ")) idols.push(meh);
+  if (text.includes("パリン")) idols.push(parin);
+  if (text.includes("たいむ")) idols.push(taimu);
   // 空だったらたぶん全員
-  if (members.length === 0) return [...all];
-  return members;
+  if (idols.length === 0) return allIdols;
+  return idols;
 };
 
 const zip = <T, U>(a: T[], b: U[]): [T, U | undefined][] => {

@@ -1,11 +1,11 @@
-export type Member = "みえる" | "メエ" | "パリン" | "たいむ";
-export type Channel = "みえる" | "メエ" | "パリン" | "たいむ" | "部" | "他";
+import { type Channel, type Idol } from "./idols";
+
 export type Entry = {
   /** 開始時刻 (UTC) */
   startAt: Date;
-  /** 参加するメンバーの名前 */
-  members: Member[];
-  /** 配信するチャンネルの名前 */
+  /** 参加するアイドル */
+  idols: Idol[];
+  /** 配信するチャンネル */
   channels: Channel[];
   /** スケジュールのタイトル */
   title: string;

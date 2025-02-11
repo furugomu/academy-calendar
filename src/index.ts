@@ -1,13 +1,13 @@
 import { Hono } from "hono";
-import type { Member } from "./types";
 import { fetchSchedule } from "./fetch";
 import { parseSchedule } from "./parse-nhp";
 import { generateCalendar } from "./calendar";
+import { findIdolById } from "./idols";
 
 const app = new Hono<{ Bindings: Env }>();
 export default app;
 
-app.get("/", (c) => {
+app.get("/", async (c) => {
   return c.html(`
 <!DOCTYPE html>
 <html lang="ja">
@@ -31,25 +31,10 @@ app.get("/", (c) => {
 
 app.get("/:id", async (c) => {
   const { id } = c.req.param();
-  const member = findMember(id);
-  if (!member) return c.text("not found", 404);
+  const idol = findIdolById(id);
+  if (!idol) return c.text("not found", 404);
   const html = await fetchSchedule(c.env);
   const entries = parseSchedule(html);
-  const calendar = await generateCalendar(entries, member);
+  const calendar = await generateCalendar(entries, idol);
   return c.body(calendar, 200, { "content-type": "text/calendar" });
 });
-
-const findMember = (id: string): Member | null => {
-  switch (id) {
-    case "mieru":
-      return "みえる";
-    case "meh":
-      return "メエ";
-    case "parin":
-      return "パリン";
-    case "taimu":
-      return "たいむ";
-    default:
-      return null;
-  }
-};
