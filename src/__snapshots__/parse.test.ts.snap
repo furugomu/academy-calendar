@@ -1,0 +1,2037 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`parseSchedule > schedule-2025-01.html 1`] = `
+[
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-02T05:00:00.000Z,
+    "title": "【全員同時配信】新春ドンジャラ大会！",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-04T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #25",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-05T06:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-05T11:00:00.000Z,
+    "title": "プレミア配信｜真未夢メエの羊を数えナイト #21",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-05T12:00:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-06T12:00:00.000Z,
+    "title": "たいむ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-06T21:30:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-07T10:45:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-07T13:00:00.000Z,
+    "title": "たいむ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-09T11:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-09T12:00:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date",
+    "startAt": 2025-01-09T15:00:00.000Z,
+    "title": "MEWLIVE初の有観客バラエティ＆ライブイベント「新春みゅ～らいぶ2025 〜デミカツ！電音部！お年玉争奪戦！〜」にアイカツアカデミー！配信部のゲスト出演が決定！",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-11T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #26",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date",
+    "startAt": 2025-01-10T15:00:00.000Z,
+    "title": "【スペシャルアイドルコラボレーション】和央パリン×ハナ『HAPPY∞アイカツ！』",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-12T06:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-12T10:00:00.000Z,
+    "title": "プレミア配信｜真未夢メエの羊を数えナイト #22",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-12T12:00:00.000Z,
+    "title": "みえるチャンネル｜メエコラボ配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-12T12:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-13T12:00:00.000Z,
+    "title": "パリン個人配信（メンバーシップ限定）",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-14T09:00:00.000Z,
+    "title": "メエチャンネル｜たいむコラボ配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-14T10:45:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-14T21:30:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-16T09:00:00.000Z,
+    "title": "メエ個人配信（メンバーシップ限定）",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-16T11:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-16T13:00:00.000Z,
+    "title": "たいむ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-17T11:00:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-18T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #27”久遠たま”さんゲスト出演",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-19T08:00:00.000Z,
+    "title": "にじさんじ”さんコラボリレー配信：真未夢メエ×立伝都々さん",
+  },
+  {
+    "channels": [],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-19T10:00:00.000Z,
+    "title": "にじさんじ”さんコラボリレー配信：和央パリン×レイン・パターソンさん",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-19T12:00:00.000Z,
+    "title": "にじさんじ”さんコラボリレー配信：姫乃みえる×シスター・クレアさん",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-01-25T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #28",
+  },
+]
+`;
+
+exports[`parseSchedule > schedule-2025-02.html 1`] = `
+[
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-01T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #29 “尾丸ポルカ”さんゲスト出演",
+  },
+  {
+    "channels": [],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date",
+    "startAt": 2025-01-31T15:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」エリオント1st LIVE　特設サイトOPEN",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-02T09:30:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-02T10:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-02T03:00:00.000Z,
+    "title": "プレミア配信｜真未夢メエの羊を数えナイト #25",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-03T13:00:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-04T12:00:00.000Z,
+    "title": "パリンチャンネル｜たいむコラボ配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-04T10:45:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-04T21:30:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-06T12:00:00.000Z,
+    "title": "みえる・メエ同時配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-06T09:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-07T13:00:00.000Z,
+    "title": "たいむ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-07T11:00:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date",
+    "startAt": 2025-02-07T15:00:00.000Z,
+    "title": "イベントカード ハッピーバレンタイン2025",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-08T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #30",
+  },
+  {
+    "channels": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-09T11:00:00.000Z,
+    "title": "たいむチャンネル｜みえる・メエ・パリンコラボ配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-09T09:00:00.000Z,
+    "title": "プレミア配信｜真未夢メエの羊を数えナイト #26",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-09T06:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-10T12:00:00.000Z,
+    "title": "みえる・メエ同時配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-10T11:00:00.000Z,
+    "title": "たいむ個人配信（メンバーシップ限定）",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-10T10:00:00.000Z,
+    "title": "パリン個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-11T10:45:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-10T21:30:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-12T11:00:00.000Z,
+    "title": "全員同時配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "idols": [
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-13T12:00:00.000Z,
+    "title": "メエ個人配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+    ],
+    "idols": [
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-13T09:00:00.000Z,
+    "title": "パリンたいむ同時配信",
+  },
+  {
+    "channels": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-14T11:00:00.000Z,
+    "title": "みえる個人配信",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-15T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #31",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-02-22T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #32",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-03-01T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #33",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-03-08T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #34",
+  },
+  {
+    "channels": [],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date",
+    "startAt": 2025-03-08T15:00:00.000Z,
+    "title": "『Lemino presents ULTRA ANIME FES 2025』 アイカツアカデミー！配信部 出演",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-03-15T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #35",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-03-22T11:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」デミカツ通信 #36",
+  },
+  {
+    "channels": [
+      {
+        "fullName": "アイカツアカデミー配信部",
+        "id": "bu",
+        "name": "配信部",
+        "youtubeUrl": "https://www.youtube.com/@aikatsu-academy",
+      },
+    ],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-03-29T10:00:00.000Z,
+    "title": "「アイカツアカデミー！配信部」エリオント 1st LIVE（オンライン無料配信）",
+  },
+  {
+    "channels": [],
+    "idols": [
+      {
+        "color": "pink",
+        "fullName": "姫乃みえる",
+        "id": "mieru",
+        "name": "みえる",
+        "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
+      },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
+      {
+        "color": "gold",
+        "fullName": "和央パリン",
+        "id": "parin",
+        "name": "パリン",
+        "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
+      },
+    ],
+    "scheduleType": "date-time",
+    "startAt": 2025-03-29T12:30:00.000Z,
+    "title": "後夜祭 ※メンバーシップ限定配信",
+  },
+]
+`;

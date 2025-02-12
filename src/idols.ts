@@ -17,7 +17,7 @@ export const mieru: Idol = {
   id: "mieru",
   name: "みえる",
   fullName: "姫乃みえる",
-  color: "#f097a7",
+  color: "pink",
   youtubeUrl: "https://www.youtube.com/@himeno-mieru",
 } as const;
 
@@ -25,7 +25,7 @@ export const meh: Idol = {
   id: "meh",
   name: "メエ",
   fullName: "真未夢メエ",
-  color: "#5b6f97",
+  color: "midnightblue",
   youtubeUrl: "https://www.youtube.com/@mamimu-meh",
 } as const;
 
@@ -34,7 +34,7 @@ export const parin: Idol = {
   id: "parin",
   name: "パリン",
   fullName: "和央パリン",
-  color: "#fcd005",
+  color: "gold",
   youtubeUrl: "https://www.youtube.com/@wao-parin",
 } as const;
 
@@ -42,7 +42,7 @@ export const taimu: Idol = {
   id: "taimu",
   name: "たいむ",
   fullName: "凛堂たいむ",
-  color: "#a28ec1",
+  color: "mediumpurple",
   youtubeUrl: "https://www.youtube.com/@rindou-taimu",
 } as const;
 

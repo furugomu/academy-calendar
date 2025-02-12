@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import { fetchSchedule } from "./fetch";
-import { parseSchedule } from "./parse-nhp";
+import { parseSchedule } from "./parse";
 import { generateCalendar } from "./calendar";
 import { findIdolById } from "./idols";
 

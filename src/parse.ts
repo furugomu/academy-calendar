@@ -1,17 +1,16 @@
 import { parse, type HTMLElement } from "node-html-parser";
-import type { Entry } from "./types";
 import {
-  findIdolByName,
   allIdols,
+  bu,
+  findChannelByName,
   meh,
   mieru,
   parin,
   taimu,
-  type Idol,
-  bu,
-  findChannelByName,
   type Channel,
+  type Idol,
 } from "./idols";
+import type { Entry } from "./types";
 
 export const parseSchedule = (html: string): Entry[] => {
   const root = parse(html);
