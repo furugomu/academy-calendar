@@ -19,6 +19,7 @@ export const generateCalendar = async (
   lines.push(`X-WR-CALNAME:${idol.fullName}`);
   lines.push("URL:https://academy-calendar.furugomu.worker.dev/");
   lines.push(`SOURCE:https://academy-calendar.furugomu.worker.dev/${idol.id}`);
+  lines.push("REFRESH-INTERVAL;VALUE=DURATION:PT4H");
   lines.push(`COLOR:${idol.color}`);
   lines.push(vEvents.join("\n"));
   lines.push("END:VCALENDAR");
