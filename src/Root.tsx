@@ -26,7 +26,7 @@ export const Root = () => {
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <title>アイカツアカデミーのカレンダー （非公式）</title>
-      <body style="max-width: 640px; margin: 1em auto">
+      <body style={{ maxWidth: "640px", margin: "0 auto", padding: "1em" }}>
         <h1>
           <nobr>
             アイカツアカデミーの
@@ -34,6 +34,12 @@ export const Root = () => {
             カレンダー <small>（非公式）</small>
           </nobr>
         </h1>
+        <p>
+          <a href="https://aikatsu-academy.com/schedule/">
+            スケジュール | アイカツアカデミー！
+          </a>
+          をどすこいどすこいしてカレンダーを生成しています。
+        </p>
         <ul>
           <li>
             <a href="#google">Googleカレンダー</a>
