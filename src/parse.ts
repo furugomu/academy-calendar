@@ -11,6 +11,7 @@ import {
   type Idol,
 } from "./idols";
 import type { Entry } from "./types";
+import { channel } from "node:diagnostics_channel";
 
 export const parseSchedule = (html: string): Entry[] => {
   const root = parse(html);
@@ -115,11 +116,14 @@ const detectChannels = (el: HTMLElement): Channel[] => {
   const text = el.textContent;
   if (!text) return [];
   // Channel のうち最初に現れるものを返す
-  // TODO: 同時配信だったら全員返したい (21:00〜 みえる・メエ同時配信, 18:00〜 パリンたいむ同時配信)
-  const m = /みえる|メエ|パリン|たいむ/.exec(text);
-  if (m) {
-    const c = findChannelByName(m[0]);
-    if (c) return [c];
+  // 同時配信だったら全員返す (21:00〜 みえる・メエ同時配信, 18:00〜 パリンたいむ同時配信)
+  const names = text.match(/みえる|メエ|パリン|たいむ/g);
+  if (names) {
+    const channels = names
+      .map((name) => findChannelByName(name))
+      .filter((c) => c != null);
+    if (text.includes("同時配信")) return channels;
+    else if (channel.length > 0) return channels.slice(0, 1);
   }
   // 全員
   if (text.includes("全員")) return allIdols;

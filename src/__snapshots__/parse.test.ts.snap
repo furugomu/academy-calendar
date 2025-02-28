@@ -1138,6 +1138,13 @@ exports[`parseSchedule > schedule-2025-02.html 1`] = `
         "name": "みえる",
         "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
       },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
     ],
     "idols": [
       {
@@ -1406,6 +1413,13 @@ exports[`parseSchedule > schedule-2025-02.html 1`] = `
         "name": "みえる",
         "youtubeUrl": "https://www.youtube.com/@himeno-mieru",
       },
+      {
+        "color": "midnightblue",
+        "fullName": "真未夢メエ",
+        "id": "meh",
+        "name": "メエ",
+        "youtubeUrl": "https://www.youtube.com/@mamimu-meh",
+      },
     ],
     "idols": [
       {
@@ -1615,6 +1629,13 @@ exports[`parseSchedule > schedule-2025-02.html 1`] = `
         "id": "parin",
         "name": "パリン",
         "youtubeUrl": "https://www.youtube.com/@wao-parin",
+      },
+      {
+        "color": "mediumpurple",
+        "fullName": "凛堂たいむ",
+        "id": "taimu",
+        "name": "たいむ",
+        "youtubeUrl": "https://www.youtube.com/@rindou-taimu",
       },
     ],
     "idols": [
