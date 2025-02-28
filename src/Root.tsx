@@ -25,14 +25,10 @@ export const Root = () => {
     <html lang="ja">
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>アイカツアカデミーのカレンダー （非公式）</title>
+      <title>アイカツアカデミーのカレンダー（非公式）</title>
       <body style={{ maxWidth: "640px", margin: "0 auto", padding: "1em" }}>
-        <h1>
-          <nobr>
-            アイカツアカデミーの
-            <wbr />
-            カレンダー <small>（非公式）</small>
-          </nobr>
+        <h1 style={{ wordBreak: "auto-phrase" }}>
+          アイカツアカデミーのカレンダー<small>（非公式）</small>
         </h1>
         <p>
           <a href="https://aikatsu-academy.com/schedule/">
